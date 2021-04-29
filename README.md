@@ -1,5 +1,6 @@
 # noblockedmsg
 Gets rid of the blocked message placeholder
+made by @matcha98qx
 
 ```css
 /** ------- BLOCKED PLACEHOLDER REMOVER -------- **/
@@ -18,3 +19,5 @@ div[class *= 'blockedSystemMessage']
 
 /** -------------------------------------------- **/
 ```
+
+To use this you need a way to attach Custom CSS to your Discord client
