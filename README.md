@@ -1,6 +1,6 @@
 # noblockedmsg
 Gets rid of the blocked message placeholder
-made by @matcha98qx
+made by http://www.github.com/matcha98qx
 
 ```css
 /** ------- BLOCKED PLACEHOLDER REMOVER -------- **/
