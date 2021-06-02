@@ -1,0 +1,11 @@
+/** ------- BLOCKED PLACEHOLDER REPLACER -------- **/
+
+/* taken from 「div.blockedSystemMessage-2Rk1ek」 */
+div[class |= 'blockedSystemMessage']
+{
+    background: repeating-linear-gradient(45deg, transparent, transparent 10px, #D6D7DA 10px, #D6D7DA 20px);
+    text-indent: -298%;
+    white-space: nowrap;
+}
+
+/** -------------------------------------------- **/
