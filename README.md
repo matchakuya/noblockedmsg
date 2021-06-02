@@ -11,7 +11,7 @@ option 1 [remove box](REMOVE.css)
 　
 
 option 2 [replace box](ALT_REPLACE.css)
-![rmb](REPLACE.png)
+<img scr="REPLACE.png" style="border: 1px solid;" />
 
 ----
 To use this you need a way to attach Custom CSS to your Discord client
