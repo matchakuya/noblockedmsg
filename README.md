@@ -6,12 +6,12 @@ made by [matcha98](https://www.github.com/matcha98qx)
 ----
 
 option 1 [remove box](REMOVE.css)
-![rmb](REMOVE.png)
+　　　　![rmb](REMOVE.png)
 
 　
 
 option 2 [replace box](ALT_REPLACE.css)
-![rpb](REPLACE.png)
+　　　　![rpb](REPLACE.png)
 
 ----
 To use this you need a way to attach Custom CSS to your Discord client
