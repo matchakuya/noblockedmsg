@@ -1,7 +1,7 @@
 # noblockedmsg
 Gets rid of the blocked message placeholder on Discord
 
-made by [matcha98](https://www.github.com/matcha98qx)
+made by [matcha98](https://www.github.com/matcha298)
 
 ----
 
